@@ -1,0 +1,111 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="button_radius">40dp</dimen>
+    <dimen name="search_button_radius">5dp</dimen>
+    <dimen name="list_img_size">60dp</dimen>
+    <dimen name="profile_image_new_size">100dp</dimen>
+    <dimen name="eighteensp">18sp</dimen>
+    <dimen name="fifteensp">15sp</dimen>
+    <dimen name="twentysp">20sp</dimen>
+    <dimen name="twentydp">20dp</dimen>
+    <dimen name="twentyfivedp">25dp</dimen>
+    <dimen name="fivedp">05dp</dimen>
+    <dimen name="eightdp">08dp</dimen>
+    <dimen name="sevendp">07dp</dimen>
+    <dimen name="thirtydp">30dp</dimen>
+    <dimen name="tendp">10dp</dimen>
+    <dimen name="twelvedp">12dp</dimen>
+    <dimen name="fourtydp">40dp</dimen>
+    <dimen name="fifteendp">15dp</dimen>
+    <dimen name="hundreddp">100dp</dimen>
+    <dimen name="tensp">10sp</dimen>
+    <dimen name="eightsp">08sp</dimen>
+    <dimen name="Fifteensp">15sp</dimen>
+    <dimen name="twelvesp">12sp</dimen>
+    <dimen name="twodp">2dp</dimen>
+    <dimen name="onedp">1dp</dimen>
+    <dimen name="threedp">03dp</dimen>
+    <dimen name="sixtydp">60dp</dimen>
+    <dimen name="seventydp">70dp</dimen>
+    <dimen name="eightydp">80dp</dimen>
+    <dimen name="threehundreddp">300dp</dimen>
+    <dimen name="onethirtydp">130dp</dimen>
+    <dimen name="onesixtyfivedp">165dp</dimen>
+    <dimen name="sixteensp">16sp</dimen>
+
+    <item name="menuFromDegrees" format="float" type="dimen">180.0</item>
+    <item name="menuToDegrees" format="float" type="dimen">360.0</item>
+
+    <dimen name="menuChildSize">30dp</dimen>
+    <dimen name="list_item_height">48dp</dimen>
+    <dimen name="height_35">35dp</dimen>
+    <dimen name="height_40">40dp</dimen>
+    <dimen name="button_pressed_z_material">4dp</dimen>
+    <dimen name="button_elevation_material">2dp</dimen>
+    <dimen name="button_internal_padding">1dp</dimen>
+    <dimen name="button_min_height">7dp</dimen>
+    <dimen name="button_text_padding">2dp</dimen>
+    <dimen name="txtSize">14sp</dimen>
+    <dimen name="grid_img_height">120dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+
+    <dimen name="home_button_width">200dp</dimen>
+    <dimen name="profile_image_size">80dp</dimen>
+    <dimen name="npi_image_hight">50dp</dimen>
+    <dimen name="npi_image_width">50dp</dimen>
+
+
+    <!-- OPENTOK VIDEO CALLING-->
+    <dimen name="preview_width">80dp</dimen>
+    <dimen name="preview_height">80dp</dimen>
+    <dimen name="preview_rightMargin">25dp</dimen>
+    <dimen name="preview_bottomMargin">70dp</dimen>
+
+
+    <dimen name="underline_top_spacing">8dp</dimen>
+    <dimen name="underline_bottom_spacing">4dp</dimen>
+    <dimen name="error_label_spacing">12dp</dimen>
+
+    <dimen name="floating_label_top_spacing">4dp</dimen>
+    <dimen name="floating_label_bottom_spacing">8dp</dimen>
+    <dimen name="floating_label_inside_spacing">12dp</dimen>
+
+    <dimen name="right_left_spinner_padding">8dp</dimen>
+
+    <dimen name="label_text_size">12sp</dimen>
+
+    <dimen name="min_content_height">15dp</dimen>
+    <dimen name="diagnosis_code_width">80dp</dimen>
+
+
+
+    <dimen name="mar_20">20dp</dimen>
+    <dimen name="mar_15">15dp</dimen>
+    <dimen name="mar_10">10dp</dimen>
+    <dimen name="mar_80">80dp</dimen>
+    <dimen name="mar_40">40dp</dimen>
+    <dimen name="mar_50">50dp</dimen>
+    <dimen name="mar_30">30dp</dimen>
+    <dimen name="dasboard_top_view">300dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="spinner_height">30dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+
+    <dimen name="dp_2">2dp</dimen>
+    <dimen name="dp_35">35dp</dimen>
+    <dimen name="dp_33">32dp</dimen>
+    <dimen name="fourty_five_dp">45dp</dimen>
+    <dimen name="mar_27">27dp</dimen>
+
+
+    <dimen name="search_view_text_size">13sp</dimen>
+    <dimen name="list_title_size">15sp</dimen>
+    <dimen name="list_sub_title_size">13sp</dimen>
+
+</resources>
